@@ -1,0 +1,2 @@
+/Users/mathisbiabiany/Projects/GtkTest/GtkTest/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/mathisbiabiany/Projects/GtkTest/GtkTest/obj/x86/Debug/GtkTest.gtk-gui.gui.stetic
