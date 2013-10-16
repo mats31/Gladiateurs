@@ -1,0 +1,47 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program/Zoo/Caniche.cs">
+    <Files>
+      <File FileName="Program/Program.cs" Line="1" Column="1" />
+      <File FileName="Program/Client.cs" Line="1" Column="1" />
+      <File FileName="Program/Personne.cs" Line="1" Column="1" />
+      <File FileName="Program/IPresentable.cs" Line="1" Column="1" />
+      <File FileName="Program/voiture.cs" Line="1" Column="1" />
+      <File FileName="Program/Zoo/Animal.cs" Line="1" Column="1" />
+      <File FileName="Program/Zoo/Caniche.cs" Line="1" Column="1" />
+      <File FileName="Program/Zoo/Chat.cs" Line="1" Column="1" />
+      <File FileName="Program/Zoo/Chien.cs" Line="1" Column="1" />
+      <File FileName="Program/Zoo/Dragon.cs" Line="13" Column="1" />
+      <File FileName="Program/Zoo/Interfaces/IAttaquant.cs" Line="1" Column="1" />
+      <File FileName="Program/Zoo/Interfaces/IVolant.cs" Line="2" Column="1" />
+      <File FileName="Program/ExempleSingleton.cs" Line="1" Column="1" />
+      <File FileName="Program/testDraw.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Program" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Zoo" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Caniche.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/mathisbiabiany/Projects/Program/Program/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/mathisbiabiany/Projects/Program/Program/bin/Debug/Program.exe.mdb
+/Users/mathisbiabiany/Projects/Program/Program/bin/Debug/Program.exe
+/Users/mathisbiabiany/Projects/Program/Program/obj/x86/Debug/Program.exe
+/Users/mathisbiabiany/Projects/Program/Program/obj/x86/Debug/Program.exe.mdb
